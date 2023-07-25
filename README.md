@@ -37,7 +37,7 @@ Suche dir entweder einen Issue aus, den du bearbeiten möchtest (und gib ihn in 
 Beachte jedoch, dass wenn bei einem Issue bereits eine Person als Beauftragter markiert ist, diese Person für den Issue zuständig ist und du dich nicht um diesen Issue kümmern solltest!
 Ein Grund dafür ist zum Beispiel, dass interne Besprechungen mit einem Teammitglied stattgefunden haben, bei denen Details zur Umsetzung vereinbart wurden.
 Du kannst unter solchen Issues oder dazugehörigen Pull-requests trotzdem gerne kommentieren und deine Vorschläge einbringen.
-Dazu kannst du [das Repository forken](https://github.com/SlimeCloud/java-SlimeBot/fork) und in deiner eigenen Kopie einen neuen Branch für deine Änderungen anlegen (Halte dich dabei an den [Styleguide](#-style-guide)!).
+Dazu kannst du [das Repository forken](https://github.com/SlimeCloud/java-SlimeBot/fork) und in deiner eigenen Kopie einen neuen Branch für deine Änderungen anlegen (Halte dich dabei an den [Style-Guide](#-style-guide)!).
 Sobald du mit deinen Änderungen begonnen hast, kannst du [eine Pull-request erstellen](https://github.com/SlimeCloud/java-SlimeBot/compare).<br>
 Wenn die Änderungen noch nicht fertig sind, solltest du stattdessen einen Pull-request Draft erstellen, um zu zeigen, dass du noch nicht fertig bist.
 Im Text der Pull-request oder des Drafts gibst du an, was du verändert hast.
