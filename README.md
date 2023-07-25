@@ -23,7 +23,7 @@ Auch wenn du nicht selbst programmieren kannst, kannst du gerne [einen Issue ers
 eine Idee für ein Feature hast oder einen Fehler melden möchtest.
 Die Entwickler suchen sich regelmäßig die dringendsten Issues, um diese umzusetzen.
 
-In GitHub Issues und Pull-Requests gibt es oft ToDo-Listen. Diese haben folgendes Format:
+In GitHub Issues und Pull-Requests gibt es oft [ToDo-Listen](https://docs.github.com/de/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists). Diese haben folgendes Format:
 ```markdown
 - [ ] Item A
 - [ ] Item B
