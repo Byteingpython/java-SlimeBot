@@ -18,7 +18,7 @@ Dieses Projekt steht unter der [GNU Affero General Public License v3.0](https://
    3. [Events](#events)
 
 ## ❗ Issues
-Wir verwenden GitHub Issues um Fehler und Feature-Anfragen zu verwalten.
+Wir verwenden [GitHub Issues](https://github.com/features/issues) um Fehler und Feature-Anfragen zu verwalten.
 Auch wenn du nicht selbst programmieren kannst, kannst du gerne [einen Issue erstellen](hhttps://github.com/SlimeCloud/java-SlimeBot/issues/new/choose), wenn du
 eine Idee für ein Feature hast oder einen Fehler melden möchtest.
 Die Entwickler suchen sich regelmäßig die dringendsten Issues, um diese umzusetzen.
